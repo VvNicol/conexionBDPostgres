@@ -14,7 +14,7 @@ public class CargaBD {
         String puerto = "5432";
         String nombreBD = "postgres";
         String usuario = "postgres";
-        String contraseña = "gwxGYW!957vv";
+        String contraseña = "gwx";
 
         // Configurar DataSource
         PGSimpleDataSource dataSource = new PGSimpleDataSource();
